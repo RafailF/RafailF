@@ -1,6 +1,5 @@
 ### Hello 👋
 📫 How to reach me: +33 6 38 10 59 24
-🌱 I’m currently learning TypeScript
 
 <!--
 **RaphaelDev1/RaphaelDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
