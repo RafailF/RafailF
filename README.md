@@ -1,3 +1,5 @@
+Hello 👋 
+
 I am a  full-stack developer with a strong foundation in web development technologies. I am passionate about creating interactive and user-friendly web applications that deliver seamless user experiences. I am eager to learn and constantly improve my skills to stay updated with the latest industry trends.
 
 Skills:
